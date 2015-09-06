@@ -6,3 +6,4 @@ TODO:
 2. validations on registration
 3. compare change in comments/votes before updating
 4. logging
+5. notifying user about errors on front end (failed requests, etc)
